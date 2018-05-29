@@ -1,0 +1,43 @@
+
+
+#background {
+    -fx-background-color: red;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-border: none;
+    -fx-color: white;
+
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-family: font;
+}
+
+.buttonColor {
+    -fx-background-color: #4CAF50;
+    -fx-border: none;
+    -fx-color: white;
+
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-family: font;
+    -fx-text-fill: blue;
+}
+
+.buttonDark {
+    -fx-background-color: lightblue;
+    -fx-border: none;
+    -fx-color: white;
+
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-family: font;
+}
+
+.centeredTextArea .scroll-pane .content .text {
+    -fx-text-alignment: center;
+}
